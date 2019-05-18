@@ -1,0 +1,41 @@
+@import url(sanitize.css);
+
+body{
+  background-color: rgb(230, 230, 160)
+
+}
+
+header h1{
+  font-size: 24px;
+  margin: 20px 20px;
+  color:rgb(10,200,50);
+}
+
+.menu{
+  float: left;
+  border: 1px solid rgb(20,200,120) ;
+  background-color: rgb(20,200,120)  ;
+  color: #fff;
+  width: 120px;
+  margin: 0 20px auto;
+  padding: 10px;
+}
+
+.article{
+  float: left;
+  background-color: #fff;
+  width:500px;
+  margin: 0 auto;
+  padding: 20px 10px;
+}
+.top_content{
+  color:rgb(10,200,50);
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: solid 1px rgb(200,100,100);
+}
+.content{
+  padding: 20px 0;
+}
+
